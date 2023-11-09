@@ -1,0 +1,3 @@
+elasticSearch==8.10.4 
+logstash==8.10.4
+python==3.8.0
